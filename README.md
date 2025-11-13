@@ -21,15 +21,3 @@
 Лучшие результаты показала Logistic Regression с предобработкой "Нижний регистр":
 - Accuracy: 0.3449
 - F1-score: 0.3183
-
-## Установка и запуск
-
-```bash
-# Клонирование репозитория
-git clone https://github.com/aaseliverstova/tweet-emotion-classification.git
-
-# Переход в папку проекта
-cd tweet-emotion-classification
-
-# Запуск ноутбука
-jupyter notebook notebooks/tweet-emotion-classification.ipynb
